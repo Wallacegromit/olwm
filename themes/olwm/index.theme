@@ -1,0 +1,11 @@
+[X-GNOME-Metatheme]
+Name=olwm
+Type=X-GNOME-Metatheme
+Comment=OpenLook Theme
+
+Encoding=UTF-8
+GtkTheme=olwm
+MetacityTheme=olwm
+IconTheme=olwm
+CursorTheme=DMZ-Black
+CursorSize=24
